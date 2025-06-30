@@ -239,6 +239,30 @@ function App() {
           </div>
         )}
       </div>
+      <footer className="mt-10 text-center text-xs text-gray-500">
+  <p>
+    ⚠️ This is an <strong>unofficial Web UI version</strong>{" "}
+    <a
+      href="https://github.com/octra-labs/octra_pre_client"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="text-blue-500 underline hover:text-blue-700"
+    >
+      Octra Wallet
+    </a>. Use at your own risk.
+  </p>
+  <p className="mt-1">
+    Build by{" "}
+    <a
+      href="https://github.com/your-username/octra-web-wallet"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="underline text-blue-500 hover:text-blue-700"
+    >
+      LynchNode
+    </a>
+  </p>
+</footer>
     </div>
   );
 }
