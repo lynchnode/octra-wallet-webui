@@ -52,9 +52,8 @@ npm install
 npm run start
 ```
 
-This script will run in:
+Then, open this on your browser
 
-- Frontend: http://localhost:5173
-- Backend API: http://localhost:8000
+http://localhost:5173
 
 ---
