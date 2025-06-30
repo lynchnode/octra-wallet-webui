@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 # 🪙 Octra Wallet WebUI
 
 This is an **unofficial Web UI version** of Octra Wallet, adapted from [octra-labs/octra_pre_client](https://github.com/octra-labs/octra_pre_client).  
