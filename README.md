@@ -12,6 +12,7 @@ The codebase is still in early testing and may contain bugs, and incomplete feat
 - 📤 Send Transaction
 - 📦 Multi-send
 - 🔁 Check balance
+- TRY ON LOCAL (Not work codespace)
 
 ![Preview](https://raw.githubusercontent.com/lynchnode/octra-wallet-webui/refs/heads/main/example/octra-example.png)
 ---
